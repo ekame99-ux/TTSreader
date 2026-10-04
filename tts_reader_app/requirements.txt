@@ -1,0 +1,6 @@
+edge-tts>=7.0.0
+soundfile>=0.12.0
+sounddevice>=0.4.0
+ebooklib>=0.18
+beautifulsoup4>=4.12.0
+lxml>=5.0.0
